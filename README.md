@@ -1,8 +1,6 @@
-#3d tableView#
+#3d page switching#
 
 
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/1.png)
+![Screenshot](https://github.com/czda1100/3d-page-switching/raw/master/1.jpg)
 
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/2.png)
-
-![Screenshot](https://github.com/czda1100/3d-tableView/raw/master/3.png)
+![Screenshot](https://github.com/czda1100/3d-page-switching/raw/master/2.jpg)
